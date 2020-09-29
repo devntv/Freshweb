@@ -1,3 +1,6 @@
+import sv6 from './images/svg-6.svg'
+import sv8 from './images/svg-8.svg'
+
 export const homeObjOne ={
     lightBg: false,
     lightText: true,
@@ -35,7 +38,7 @@ export const homeObjThree ={
     description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s',
     buttonLabel: 'SIGN UP NOW',
     imgStart:'',
-    img:'images/svg-6.svg',
+    img:sv6,
     alt:'credit-card'
 };
 
@@ -48,7 +51,7 @@ export const homeObjFour ={
     description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s',
     buttonLabel: 'Sign up now',
     imgStart:'start',
-    img:'images/svg-8.svg',
+    img:sv8,
     alt:'credit-card'
 };
 

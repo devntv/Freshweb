@@ -1,3 +1,9 @@
+import sv2 from './images/svg-2.svg'
+import sv4 from './images/svg-4.svg'
+import sv7 from './images/svg-7.svg'
+import sv3 from './images/svg-3.svg'
+
+
 export const homeObjOne ={
     lightBg: false,
     lightText: true,
@@ -7,7 +13,7 @@ export const homeObjOne ={
     description: 'React is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook',
     buttonLabel: 'Get Started',
     imgStart:'',
-    img:'images/svg-2.svg',
+    img:sv2 ,
     alt:'credit-card'
 };
 
@@ -22,7 +28,7 @@ export const homeObjTwo ={
     description: 'React is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook',
     buttonLabel: 'Learn more',
     imgStart:'start',
-    img:'images/svg-4.svg',
+    img:sv4,
     alt:'vault'
 };
 
@@ -35,7 +41,7 @@ export const homeObjThree ={
     description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s',
     buttonLabel: 'Start now',
     imgStart:'',
-    img:'images/svg-7.svg',
+    img:sv7, //img:'images/svg-7.svg'
     alt:'credit-card'
 };
 
@@ -48,7 +54,7 @@ export const homeObjFour ={
     description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s',
     buttonLabel: 'Build Now',
     imgStart:'start',
-    img:'images/svg-3.svg',
+    img:sv3, // img:'images/svg-3.svg',
     alt:'credit-card'
 };
 

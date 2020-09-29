@@ -1,3 +1,6 @@
+import sv5 from './images/svg-5.svg'
+import sv1 from './images/svg-1.svg'
+
 export const homeObjOne ={
     lightBg: false,
     lightText: true,
@@ -22,7 +25,7 @@ export const homeObjTwo ={
     description: 'React is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook',
     buttonLabel: 'About ReactJS',
     imgStart:'start',
-    img:'images/svg-5.svg',
+    img:sv5,
     alt:'vault'
 };
 
@@ -35,7 +38,7 @@ export const homeObjThree ={
     description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s',
     buttonLabel: 'SIGN UP NOW',
     imgStart:'',
-    img:'images/svg-2.svg',
+    img:sv1,
     alt:'credit-card'
 };
 

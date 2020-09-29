@@ -1,3 +1,5 @@
+import sv2 from './images/svg-2.svg'
+
 export const homeObjOne ={
     lightBg: false,
     lightText: true,
@@ -7,7 +9,7 @@ export const homeObjOne ={
     description: 'React is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook',
     buttonLabel: 'Get Started',
     imgStart:'',
-    img:'images/svg-2.svg',
+    img:sv2,
     alt:'credit-card'
 };
 
