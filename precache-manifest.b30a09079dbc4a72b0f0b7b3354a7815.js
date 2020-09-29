@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1874ca52830a789fc919f82720110c13",
+    "revision": "555015186b08e77d9987ce78cd5b8f09",
     "url": "/reactFreshweb/index.html"
   },
   {
-    "revision": "075d19bb3ce1c45641b3",
-    "url": "/reactFreshweb/static/css/main.e89f950f.chunk.css"
+    "revision": "da039356cd08302f8414",
+    "url": "/reactFreshweb/static/css/main.d5f37056.chunk.css"
   },
   {
-    "revision": "138dcd1eabb0855641ba",
-    "url": "/reactFreshweb/static/js/2.ae2856d3.chunk.js"
+    "revision": "768902e2e796dd14df9e",
+    "url": "/reactFreshweb/static/js/2.90f64d0c.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/reactFreshweb/static/js/2.ae2856d3.chunk.js.LICENSE.txt"
+    "url": "/reactFreshweb/static/js/2.90f64d0c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "075d19bb3ce1c45641b3",
-    "url": "/reactFreshweb/static/js/main.fc5c6713.chunk.js"
+    "revision": "da039356cd08302f8414",
+    "url": "/reactFreshweb/static/js/main.ad83f626.chunk.js"
   },
   {
     "revision": "94ccda4bef7ee4088ddb",
