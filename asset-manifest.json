@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactFreshweb/static/css/main.e89f950f.chunk.css",
+    "main.js": "/reactFreshweb/static/js/main.a2448f98.chunk.js",
+    "main.js.map": "/reactFreshweb/static/js/main.a2448f98.chunk.js.map",
+    "runtime-main.js": "/reactFreshweb/static/js/runtime-main.5acc29a7.js",
+    "runtime-main.js.map": "/reactFreshweb/static/js/runtime-main.5acc29a7.js.map",
+    "static/js/2.044a5b04.chunk.js": "/reactFreshweb/static/js/2.044a5b04.chunk.js",
+    "static/js/2.044a5b04.chunk.js.map": "/reactFreshweb/static/js/2.044a5b04.chunk.js.map",
+    "index.html": "/reactFreshweb/index.html",
+    "precache-manifest.9ed0d4e1b0e999ecaef63b9864a1caff.js": "/reactFreshweb/precache-manifest.9ed0d4e1b0e999ecaef63b9864a1caff.js",
+    "service-worker.js": "/reactFreshweb/service-worker.js",
+    "static/css/main.e89f950f.chunk.css.map": "/reactFreshweb/static/css/main.e89f950f.chunk.css.map",
+    "static/js/2.044a5b04.chunk.js.LICENSE.txt": "/reactFreshweb/static/js/2.044a5b04.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5acc29a7.js",
+    "static/js/2.044a5b04.chunk.js",
+    "static/css/main.e89f950f.chunk.css",
+    "static/js/main.a2448f98.chunk.js"
+  ]
+}
